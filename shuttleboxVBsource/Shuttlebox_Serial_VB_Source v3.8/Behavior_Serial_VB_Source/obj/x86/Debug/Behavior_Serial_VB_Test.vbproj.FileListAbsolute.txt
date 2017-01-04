@@ -1,0 +1,11 @@
+C:\Users\REM\AppData\Local\Temporary Projects\Behavior_Serial_VB_Test\bin\Debug\Behavior_Serial_VB_Test.exe
+C:\Users\REM\AppData\Local\Temporary Projects\Behavior_Serial_VB_Test\bin\Debug\Behavior_Serial_VB_Test.pdb
+C:\Users\REM\AppData\Local\Temporary Projects\Behavior_Serial_VB_Test\bin\Debug\Behavior_Serial_VB_Test.xml
+C:\Users\REM\AppData\Local\Temporary Projects\Behavior_Serial_VB_Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\REM\AppData\Local\Temporary Projects\Behavior_Serial_VB_Test\obj\x86\Debug\Behavior_Serial_VB_Test.MainForm.resources
+C:\Users\REM\AppData\Local\Temporary Projects\Behavior_Serial_VB_Test\obj\x86\Debug\Behavior_Serial_VB_Test.Resources.resources
+C:\Users\REM\AppData\Local\Temporary Projects\Behavior_Serial_VB_Test\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\REM\AppData\Local\Temporary Projects\Behavior_Serial_VB_Test\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\REM\AppData\Local\Temporary Projects\Behavior_Serial_VB_Test\obj\x86\Debug\Behavior_Serial_VB_Test.exe
+C:\Users\REM\AppData\Local\Temporary Projects\Behavior_Serial_VB_Test\obj\x86\Debug\Behavior_Serial_VB_Test.xml
+C:\Users\REM\AppData\Local\Temporary Projects\Behavior_Serial_VB_Test\obj\x86\Debug\Behavior_Serial_VB_Test.pdb
