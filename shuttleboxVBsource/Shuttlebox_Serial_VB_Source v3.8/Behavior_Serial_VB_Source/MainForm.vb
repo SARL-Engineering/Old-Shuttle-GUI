@@ -94,7 +94,7 @@ Public Class MainForm
 
         If Directory.Exists(strLogFileDirectory) Then
             status.LogFileWrite = True
-            status.LogFilename = strLogFileDirectory & "\" & "Shuttlebox_" & intBoxNum & "_LogFile.txt"
+            status.LogFilename = strLogFileDirectory & "\" & Format(Now, "MM_dd_yyyy_HH_mm_ss" & vbCrLf & vbCrLf) & "\" & "Shuttlebox_" & intBoxNum & "_LogFile.txt"
         End If
         '
         '   Write out program start time to log file

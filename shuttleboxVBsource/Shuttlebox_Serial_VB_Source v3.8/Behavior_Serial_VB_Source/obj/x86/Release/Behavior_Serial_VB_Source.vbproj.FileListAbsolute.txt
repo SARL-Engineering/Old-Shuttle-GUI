@@ -141,3 +141,17 @@ E:\OSU Shuttlebox - Arduino\Shuttlebox_Serial_VB_Source v3.8\Behavior_Serial_VB_
 E:\OSU Shuttlebox - Arduino\Shuttlebox_Serial_VB_Source v3.8\Behavior_Serial_VB_Source\obj\x86\Release\Behavior_Serial_VB_Test.Resources.resources
 E:\OSU Shuttlebox - Arduino\Shuttlebox_Serial_VB_Source v3.8\Behavior_Serial_VB_Source\obj\x86\Release\ResGen.read.1.tlog
 E:\OSU Shuttlebox - Arduino\Shuttlebox_Serial_VB_Source v3.8\Behavior_Serial_VB_Source\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\AaronR\Documents\GitHub\Old-Shuttle-GUI\shuttleboxVBsource\Shuttlebox_Serial_VB Executable Build\Behavior_Serial_VB_Source.exe.config
+C:\Users\AaronR\Documents\GitHub\Old-Shuttle-GUI\shuttleboxVBsource\Shuttlebox_Serial_VB_Source v3.8\Behavior_Serial_VB_Source\obj\x86\Release\Behavior_Serial_VB_Source.exe
+C:\Users\AaronR\Documents\GitHub\Old-Shuttle-GUI\shuttleboxVBsource\Shuttlebox_Serial_VB_Source v3.8\Behavior_Serial_VB_Source\obj\x86\Release\Behavior_Serial_VB_Source.xml
+C:\Users\AaronR\Documents\GitHub\Old-Shuttle-GUI\shuttleboxVBsource\Shuttlebox_Serial_VB_Source v3.8\Behavior_Serial_VB_Source\obj\x86\Release\Behavior_Serial_VB_Source.pdb
+C:\Users\AaronR\Documents\GitHub\Old-Shuttle-GUI\shuttleboxVBsource\Shuttlebox_Serial_VB Executable Build\fish.ico
+C:\Users\AaronR\Documents\GitHub\Old-Shuttle-GUI\shuttleboxVBsource\Shuttlebox_Serial_VB Executable Build\Behavior_Serial_VB_Source.exe
+C:\Users\AaronR\Documents\GitHub\Old-Shuttle-GUI\shuttleboxVBsource\Shuttlebox_Serial_VB Executable Build\Behavior_Serial_VB_Source.pdb
+C:\Users\AaronR\Documents\GitHub\Old-Shuttle-GUI\shuttleboxVBsource\Shuttlebox_Serial_VB Executable Build\Behavior_Serial_VB_Source.xml
+C:\Users\AaronR\Documents\GitHub\Old-Shuttle-GUI\shuttleboxVBsource\Shuttlebox_Serial_VB_Source v3.8\Behavior_Serial_VB_Source\obj\x86\Release\Behavior_Serial_VB_Test.ConfigForm_Loading.resources
+C:\Users\AaronR\Documents\GitHub\Old-Shuttle-GUI\shuttleboxVBsource\Shuttlebox_Serial_VB_Source v3.8\Behavior_Serial_VB_Source\obj\x86\Release\Behavior_Serial_VB_Test.ConfigForm.resources
+C:\Users\AaronR\Documents\GitHub\Old-Shuttle-GUI\shuttleboxVBsource\Shuttlebox_Serial_VB_Source v3.8\Behavior_Serial_VB_Source\obj\x86\Release\Behavior_Serial_VB_Test.DownloadStatusForm.resources
+C:\Users\AaronR\Documents\GitHub\Old-Shuttle-GUI\shuttleboxVBsource\Shuttlebox_Serial_VB_Source v3.8\Behavior_Serial_VB_Source\obj\x86\Release\Behavior_Serial_VB_Test.MainForm.resources
+C:\Users\AaronR\Documents\GitHub\Old-Shuttle-GUI\shuttleboxVBsource\Shuttlebox_Serial_VB_Source v3.8\Behavior_Serial_VB_Source\obj\x86\Release\Behavior_Serial_VB_Test.Resources.resources
+C:\Users\AaronR\Documents\GitHub\Old-Shuttle-GUI\shuttleboxVBsource\Shuttlebox_Serial_VB_Source v3.8\Behavior_Serial_VB_Source\obj\x86\Release\Behavior_Serial_VB_Source.vbproj.GenerateResource.Cache
